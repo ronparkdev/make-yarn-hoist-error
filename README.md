@@ -1,0 +1,1 @@
+# make-yarn-hoist-error
